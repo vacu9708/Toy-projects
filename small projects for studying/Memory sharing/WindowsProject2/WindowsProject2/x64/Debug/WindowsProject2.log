@@ -1,0 +1,3 @@
+﻿  WindowsProject2.cpp
+C:\Users\yas\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(98,18): warning C4101: 'pcds': unreferenced local variable
+  WindowsProject2.vcxproj -> C:\Users\yas\source\repos\WindowsProject2\x64\Debug\WindowsProject2.exe

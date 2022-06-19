@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Users\yas\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(123,18): warning C4101: 'pcds': unreferenced local variable
+C:\Users\yas\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(293,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  WindowsProject1.vcxproj -> C:\Users\yas\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
