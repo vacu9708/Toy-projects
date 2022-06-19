@@ -1,4 +1,4 @@
-![Picture](https://user-images.githubusercontent.com/67142421/174492222-ddc8b4fa-1d71-4095-8110-7a2e2310a347.png)
+![Picture](https://user-images.githubusercontent.com/67142421/174492761-e710ef76-a105-474e-ba2e-18898f8a60a7.png)
 
 ## How to use
 1. Download chrome driver of the same version as chrome on your computer at https://chromedriver.chromium.org/downloads and 
