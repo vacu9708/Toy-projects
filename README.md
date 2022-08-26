@@ -3,4 +3,3 @@
 * [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
 * [Illegal parking notifier](https://github.com/vacu9708/Smart-CCTV)
 * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
-* [Release your stress](https://github.com/vacu9708/Release-your-stress)
