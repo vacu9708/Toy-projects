@@ -2,6 +2,6 @@
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Parking lot information notifier](https://github.com/vacu9708/Smart-CCTV)
 ---
-* [Small projects for studying](https://github.com/vacu9708/Toy-projects/tree/main/Small%20projects%20for%20studying)
+* [projects for studying](https://github.com/vacu9708/Toy-projects/tree/main/projects%20for%20studying)
 
 [Let's study](https://github.com/inu-appcenter/Study-together)
