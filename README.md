@@ -3,5 +3,5 @@
 - [Learn by doing(Web)](https://github.com/vacu9708/Web-development/tree/main/side%20projects)
 
 ---
-web crawling practice
+practicing for web crawling
 - [Information notifier](https://github.com/vacu9708/Information_notifier)
