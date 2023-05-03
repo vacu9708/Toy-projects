@@ -1,4 +1,7 @@
 - [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
-- [Information notifier](https://github.com/vacu9708/Information_notifier)
 - [Parking lot information notifier](https://github.com/vacu9708/Smart-CCTV)
 - [Learn by doing(Web)](https://github.com/vacu9708/Web-development/tree/main/side%20projects)
+
+---
+web crawling practice
+- [Information notifier](https://github.com/vacu9708/Information_notifier)
