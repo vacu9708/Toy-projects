@@ -1,6 +1,7 @@
 - [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
-- [Learn by doing](https://github.com/vacu9708/Web-development/tree/main/side%20projects)
 - [Parking lot information notifier](https://github.com/vacu9708/Smart-CCTV)
+- [To-do list](https://github.com/vacu9708/To-do-list)
+- [Video conference](https://github.com/vacu9708/video-conference)
 
 ---
 ### Practicing web crawling<br>
