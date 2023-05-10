@@ -7,7 +7,7 @@
 ### Practicing web crawling<br>
 [Information notifier](https://github.com/vacu9708/Information_notifier)
 
-### Practicing microservices
+### Practicing microservices and java spring
 [MSA](https://github.com/vacu9708/Tools-etc/tree/main/side%20projects/MSA%20beer%20service%20with%20spring)
 
 ### Practicing c++<br>
