@@ -4,7 +4,7 @@
 - [Video conference](https://github.com/vacu9708/video-conference)
 
 ### NestJS assignment before the interview
-[nestJS price chart assignment](https://github.com/vacu9708/aresa_korea_assignment)
+[nestJS price chart assignment](https://github.com/vacu9708/nestjs_assignment_before_interview)
 
 ---
 ### Practicing web crawling<br>
