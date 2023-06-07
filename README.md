@@ -3,7 +3,7 @@
 - [To-do list](https://github.com/vacu9708/To-do-list)
 - [Video conference](https://github.com/vacu9708/video-conference)
 
-### NestJS assignment before the interview
+### NestJS assignment
 [nestJS assignment](https://github.com/vacu9708/nestjs_assignment_before_interview)
 
 ---
