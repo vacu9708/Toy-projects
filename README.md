@@ -1,7 +1,10 @@
 - [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 - [Parking lot information notifier](https://github.com/vacu9708/Smart-CCTV)
 - [To-do list](https://github.com/vacu9708/To-do-list)
-- [Video conference](https://github.com/vacu9708/video-conference)
+- [Video conference](https://github.com/vacu9708/video-conference);
+
+### NestJS assignment before the interview
+[nestJS price chart assignment](https://github.com/vacu9708/aresa_korea_assignment)
 
 ---
 ### Practicing web crawling<br>
