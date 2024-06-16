@@ -1,4 +1,3 @@
-### Embedded system
 - [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 - [Parking lot information notifier](https://github.com/vacu9708/Smart-CCTV)
 
